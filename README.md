@@ -1,2 +1,2 @@
-# C-
+# C++
 Player Management System
